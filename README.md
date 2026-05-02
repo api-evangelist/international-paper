@@ -1,5 +1,6 @@
 # International Paper (international-paper)
-International Paper is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for International Paper.
+
+International Paper is a Fortune 500 producer of fiber-based packaging, pulp, and paper products serving customers in more than 150 countries. The company does not currently publish a public developer API program; business integrations are handled through customer and supplier portals.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/international-paper/refs/heads/main/apis.yml)
 
@@ -9,25 +10,31 @@ International Paper is a Fortune 500 company. This repository captures the APIs,
 - **Position:** Consuming
 - **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Fortune 500
+- Fortune 500
+- Manufacturing
+- Packaging
+- Paper
+- Pulp
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public APIs have been identified for International Paper. The company operates as a B2B manufacturer without a public developer program. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.international-paper.com)
+- [Website](https://www.internationalpaper.com)
+- [About](https://www.internationalpaper.com/company)
+- [Contact](https://www.internationalpaper.com/contact-us)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
