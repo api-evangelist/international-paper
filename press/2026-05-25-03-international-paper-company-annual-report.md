@@ -1,7 +1,9 @@
 ---
 title: INTERNATIONAL PAPER COMPANY ANNUAL REPORT
 url: https://s202.q4cdn.com/314366415/files/doc_financials/2024/ar/Final-2023-Annual-Report_IP.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"International Paper" press release artificial intelligence'
 position: 3
 source: serpapi-google

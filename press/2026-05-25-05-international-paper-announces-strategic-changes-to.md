@@ -1,7 +1,9 @@
 ---
 title: International Paper Announces Strategic Changes to ...
 url: https://www.prnewswire.com/news-releases/international-paper-announces-strategic-changes-to-support-growth-in-north-america-302492317.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"International Paper" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: International Paper Swings to Profit, Issues Downbeat ...
 url: https://www.wsj.com/business/earnings/international-paper-swings-to-profit-issues-downbeat-outlook-b5811670
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"International Paper" press release artificial intelligence'
 position: 2
 source: serpapi-google
